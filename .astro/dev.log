@@ -23,3 +23,7 @@
 {"message":"Re-optimizing dependencies because vite config has changed","label":"vite","level":"info"}
 {"message":"server restarted.","label":"vite","level":"info"}
 {"message":"Failed to update routes via HMR:\n TypeError: undefined is not a function","label":"router","level":"error"}
+{"message":"Failed to update routes via HMR:\n TypeError: undefined is not a function","label":"router","level":"error"}
+{"message":"Failed to update routes via HMR:\n TypeError: undefined is not a function","label":"router","level":"error"}
+{"message":"Failed to update routes via HMR:\n TypeError: undefined is not a function","label":"router","level":"error"}
+{"message":"Failed to update routes via HMR:\n TypeError: undefined is not a function","label":"router","level":"error"}
