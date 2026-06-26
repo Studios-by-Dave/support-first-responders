@@ -17,3 +17,9 @@
 {"message":"[200] / 62ms","label":null,"level":"info"}
 {"message":"/src/styles/global.css, /node_modules/@astrojs/tailwind/base.css","label":"watch","level":"info"}
 {"message":"[200] / 55ms","label":null,"level":"info"}
+{"message":"Configuration file updated. Restarting...","label":null,"level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"Re-optimizing dependencies because vite config has changed","label":"vite","level":"info"}
+{"message":"server restarted.","label":"vite","level":"info"}
+{"message":"Failed to update routes via HMR:\n TypeError: undefined is not a function","label":"router","level":"error"}
