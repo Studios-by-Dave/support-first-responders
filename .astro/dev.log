@@ -1,0 +1,19 @@
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"Generated 2ms","label":"types","level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":" astro  v7.0.3 ready in 6312 ms\n┃ Local    http://localhost:4321/\n┃ Network  use --host to expose","label":"SKIP_FORMAT","level":"info"}
+{"message":"watching for file changes...","label":null,"level":"info"}
+{"message":"[200] / 78ms","label":null,"level":"info"}
+{"message":"[200] / 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /node_modules/@astrojs/tailwind/base.css","label":"watch","level":"info"}
+{"message":"[200] / 106ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /node_modules/@astrojs/tailwind/base.css","label":"watch","level":"info"}
+{"message":"[200] / 200ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /node_modules/@astrojs/tailwind/base.css","label":"watch","level":"info"}
+{"message":"[200] / 66ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /node_modules/@astrojs/tailwind/base.css","label":"watch","level":"info"}
+{"message":"[200] / 63ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /node_modules/@astrojs/tailwind/base.css","label":"watch","level":"info"}
+{"message":"[200] / 62ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /node_modules/@astrojs/tailwind/base.css","label":"watch","level":"info"}
+{"message":"[200] / 55ms","label":null,"level":"info"}

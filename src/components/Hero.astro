@@ -1,0 +1,40 @@
+---
+const logoPath = '/assets/SWeblogo1.jpg';
+const heroImage = '/assets/support-first-responders-3.jpg';
+---
+
+<section class="relative py-20 px-4 overflow-hidden">
+  <div class="absolute inset-0 bg-gradient-to-b from-brand-blue/20 to-transparent"></div>
+  <div class="max-w-6xl mx-auto relative z-10">
+    <div class="grid md:grid-cols-2 gap-12 items-center">
+      <div class="text-center md:text-left">
+        <img 
+          src={logoPath} 
+          alt="Shelby Web Co. Logo" 
+          class="h-24 mx-auto md:mx-0 mb-8"
+        />
+        <h1 class="text-5xl md:text-6xl font-bold mb-6 glow-text text-brand-light">
+          Support Your Local First Responders
+        </h1>
+        <p class="text-xl md:text-2xl text-brand-accent max-w-3xl mx-auto md:mx-0 mb-8">
+          Honoring the brave men and women who keep our communities safe in Shelby, NC and beyond
+        </p>
+        <div class="flex justify-center md:justify-start gap-4 flex-wrap">
+          <a href="#statistics" class="bg-brand-light hover:bg-brand-accent text-white px-8 py-3 rounded-lg font-semibold transition-all card-glow">
+            View Statistics
+          </a>
+          <a href="#organizations" class="border-2 border-brand-light text-brand-light hover:bg-brand-light hover:text-white px-8 py-3 rounded-lg font-semibold transition-all">
+            Local Organizations
+          </a>
+        </div>
+      </div>
+      <div class="relative">
+        <img 
+          src={heroImage} 
+          alt="Support First Responders" 
+          class="rounded-xl shadow-2xl border-2 border-brand-light/30 w-full"
+        />
+      </div>
+    </div>
+  </div>
+</section>
